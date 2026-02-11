@@ -1,2 +1,2 @@
-Algoritmo,Silhouette Score
-DBSCAN,0.5825730553286912
+Algoritmo,Número de Clusters,Silhouette Score
+DBSCAN,7,0.5825730553286912
